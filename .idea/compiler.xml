@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab-4-eureka-adjective" />
+        <module name="lab-4-eureka-article" />
+        <module name="lab-4-eureka-noun" />
+        <module name="lab-4-eureka-sentence" />
+        <module name="lab-4-eureka-server" />
+        <module name="lab-4-eureka-subject" />
+        <module name="lab-4-eureka-verb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lab-4-eureka-adjective" target="1.8" />
+      <module name="lab-4-eureka-article" target="1.8" />
+      <module name="lab-4-eureka-noun" target="1.8" />
+      <module name="lab-4-eureka-sentence" target="1.8" />
+      <module name="lab-4-eureka-server" target="1.8" />
+      <module name="lab-4-eureka-subject" target="1.8" />
+      <module name="lab-4-eureka-verb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

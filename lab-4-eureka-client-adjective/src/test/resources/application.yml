@@ -1,0 +1,6 @@
+
+eureka:
+  client:
+    enabled: false
+
+words: reasonable,leaky,suspicious,ordinary,unlikely

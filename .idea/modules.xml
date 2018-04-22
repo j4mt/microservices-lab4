@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-adjective/lab-4-eureka-adjective.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-adjective/lab-4-eureka-adjective.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-article/lab-4-eureka-article.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-article/lab-4-eureka-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-noun/lab-4-eureka-noun.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-noun/lab-4-eureka-noun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-web-sentence/lab-4-eureka-sentence.iml" filepath="$PROJECT_DIR$/lab-4-eureka-web-sentence/lab-4-eureka-sentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-server/lab-4-eureka-server.iml" filepath="$PROJECT_DIR$/lab-4-eureka-server/lab-4-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-subject/lab-4-eureka-subject.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-subject/lab-4-eureka-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-verb/lab-4-eureka-verb.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-verb/lab-4-eureka-verb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-lab4.iml" filepath="$PROJECT_DIR$/.idea/microservices-lab4.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+
+eureka:
+  client:
+    enabled: false
+
+words: boat,book,vote,seat,backpack,partition,groundhog

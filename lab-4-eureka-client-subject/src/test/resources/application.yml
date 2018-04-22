@@ -1,0 +1,6 @@
+
+eureka:
+  client:
+    enabled: false
+
+words: I,You,He,She,It

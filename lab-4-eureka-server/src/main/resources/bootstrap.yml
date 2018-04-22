@@ -1,3 +1,13 @@
+
 spring:
   application:
     name: lab-4-eureka-server
+
+eureka:
+#  instances:
+#    preferIpAddress: true
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0

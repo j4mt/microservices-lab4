@@ -8,7 +8,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 public class Lab4EurekaSentenceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Lab4EurekaSentenceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Lab4EurekaSentenceApplication.class, args);
+    }
 }

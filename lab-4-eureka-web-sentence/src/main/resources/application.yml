@@ -1,10 +1,8 @@
-spring:
-  application:
-    name: lab-4-eureka-web-sentence
 
-eurekaclient:
-  serviceUrl:
-    defaultZone: http://localhost:8010/eureka/
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8010/eureka/
 
 server:
   port: 8020
