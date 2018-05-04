@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DB" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab-4-eureka-client-adjective" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab-4-eureka-client-article" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab-4-eureka-client-noun" charset="UTF-8" />

@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-server/lab-4-eureka-server.iml" filepath="$PROJECT_DIR$/lab-4-eureka-server/lab-4-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-subject/lab-4-eureka-subject.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-subject/lab-4-eureka-subject.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-4-eureka-client-verb/lab-4-eureka-verb.iml" filepath="$PROJECT_DIR$/lab-4-eureka-client-verb/lab-4-eureka-verb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-lab4.iml" filepath="$PROJECT_DIR$/.idea/microservices-lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
     </modules>
   </component>
 </project>

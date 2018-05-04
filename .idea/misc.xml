@@ -3,13 +3,14 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/lab-4-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-web-sentence/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-client-subject/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-client-noun/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-client-article/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-client-verb/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-client-adjective/pom.xml" />
+        <option value="$PROJECT_DIR$/poml.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

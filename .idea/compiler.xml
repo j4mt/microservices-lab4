@@ -16,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="DB" target="1.8" />
       <module name="lab-4-eureka-adjective" target="1.8" />
       <module name="lab-4-eureka-article" target="1.8" />
       <module name="lab-4-eureka-noun" target="1.8" />
@@ -23,6 +24,8 @@
       <module name="lab-4-eureka-server" target="1.8" />
       <module name="lab-4-eureka-subject" target="1.8" />
       <module name="lab-4-eureka-verb" target="1.8" />
+      <module name="microservices-lab4" target="1.5" />
+      <module name="parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

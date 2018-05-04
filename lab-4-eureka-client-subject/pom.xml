@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.kennyk65</groupId>
-	<artifactId>lab-4-eureka-subject</artifactId>
+	<artifactId>lab-4-eureka-client-subject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -12,10 +12,10 @@
 	<description>Kennyk65 Lab 4 Microservices.</description>
 
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.11.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<groupId>com.kennyk65</groupId>
+		<artifactId>parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
